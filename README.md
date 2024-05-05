@@ -1,4 +1,4 @@
-<p align="left">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Mucho gusto mi nombr es Jefferson Bahamon</p>
+<p align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, mucho gusto mi nombr es Jefferson Bahamon</p>
 
 ###
 
