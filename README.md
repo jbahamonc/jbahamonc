@@ -7,7 +7,7 @@
 
 > Desarrollador web con mas de 5 años de experiencia en el mundo de la programación, en mi experiencia he trabajado en distintos sectores lo que me ha permitido enriquecer mis conocimientos y habilidades técnicas. Soy un apasionado por las tecnologías, me gusta estar en constante aprendizaje y estar haciendo tutoriales de programación de algo que me guste 😁.
 
-
+<br>
 
 ### 🛠 &nbsp;Tecnologías usadas
 
@@ -37,7 +37,7 @@
 ![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar&logoColor=blue&link=https%3A%2F%2Fquasar.dev%2F)\
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-05122A?style=flat&logo=azure&logoColor=blue)
 
-
+<br>
 
 ### 👨🏻‍💻 &nbsp;Tecnologías y herramientas que uso actualmente
 
@@ -58,12 +58,14 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 
-
+<br>
 
 ### 📖 Tecnoloígas que estoy aprendiendo
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![Python](https://img.shields.io/badge/-Proximamente...-05122A?style=flat&logo=python&label=Python&labelColor=05122A)
+
+<br>
 
 ### ⚙️ &nbsp;Analítica de GitHub
 
@@ -72,6 +74,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbahamonc&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<br>
 
 ### 🤝🏻 &nbsp;Quieres Hablarme ?
 
