@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bienvenidos!!👨‍💻&width=1500&height=200)](https://github.com/jbahamonc)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bienvenidos!!👨‍💻&width=1000&height=200)](https://github.com/jbahamonc)
 
 <h2 align="center">Hola <img alt="Night Coding" src="./resources/Hi.gif" width='30' />, Soy Jefferson Bahamon</h2>
 <p align="center" ><b>Desarrollador Full-Stack</b></p>
@@ -56,6 +56,8 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)\
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+
 
 
 ### 📖 Tecnoloígas que estoy aprendiendo
