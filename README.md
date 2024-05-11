@@ -54,7 +54,9 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)\
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+
 
 ### 📖 Tecnoloígas que estoy aprendiendo
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
