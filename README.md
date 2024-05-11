@@ -1,11 +1,11 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bienvenidos!!👨‍💻&width=1000&height=200)](https://github.com/jbahamonc)
 
-<h2 align="center">Hola <img alt="Night Coding" src="./resources/Hi.gif" width='30' />, Soy Jefferson Bahamon</h2>
+<h2 align="center" style="border: 0">Hola <img alt="Night Coding" src="./resources/Hi.gif" width='30' />, Soy Jefferson Bahamon</h2>
 <p align="center" ><b>Desarrollador Full-Stack</b></p>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-Desarrollador web con mas de 5 años de experiencia en el mundo de la programación, en mi experiencia he trabajado en distintos sectores lo que me ha permitido enriquecer mis conocimientos y habilidades técnicas. Soy un apasionado por las tecnologías, me gusta estar en constante aprendizaje y estar haciendo tutoriales de programación de algo que me guste 😁.
+> Desarrollador web con mas de 5 años de experiencia en el mundo de la programación, en mi experiencia he trabajado en distintos sectores lo que me ha permitido enriquecer mis conocimientos y habilidades técnicas. Soy un apasionado por las tecnologías, me gusta estar en constante aprendizaje y estar haciendo tutoriales de programación de algo que me guste 😁.
 
 
 
