@@ -64,6 +64,6 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ### 🤝🏻 &nbsp;Quieres Hablarme ?
 
 <p align="left">
-<a href="https://linkedin.com/in/jbahamonc"><img src="https://img.shields.io/badge/-Jefferson%20Bahamon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jbahamonc" target="_blank"><img src="https://img.shields.io/badge/-Jefferson%20Bahamon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jefersonbahamon@gmail.com"><img src="https://img.shields.io/badge/-jefersonbahamon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
