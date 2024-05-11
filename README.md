@@ -36,7 +36,7 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 
 
 
-### 👨🏻‍💻 &nbsp;Tecnologías y Herramientas que uso actualmente
+### 👨🏻‍💻 &nbsp;Tecnologías y herramientas que uso actualmente
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
