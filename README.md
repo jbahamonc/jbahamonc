@@ -33,6 +33,10 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublimetext)\
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=red)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%23&logoColor=7b3399)
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
+![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar&logoColor=blue&link=https%3A%2F%2Fquasar.dev%2F)
+
+
 
 
 
