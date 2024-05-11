@@ -29,9 +29,11 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)\
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=oracle&logoColor=red)
+![Oracle PL](https://img.shields.io/badge/-Oracle_PL/SQL-05122A?style=flat&logo=oracle&logoColor=red)
 ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublimetext)\
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=red)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%23&logoColor=7b3399)
+
 
 
 
