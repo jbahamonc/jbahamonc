@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-> Desarrollador web con mas de 5 años de experiencia en el mundo de la programación, en mi experiencia he trabajado en distintos sectores lo que me ha permitido enriquecer mis conocimientos y habilidades técnicas. Soy un apasionado por las tecnologías, me gusta estar en constante aprendizaje y estar haciendo tutoriales de programación de algo que me guste 😁.
+Desarrollador web con mas de 5 años de experiencia en el mundo de la programación, en mi experiencia he trabajado en distintos sectores lo que me ha permitido enriquecer mis conocimientos y habilidades técnicas. Soy un apasionado por las tecnologías, me gusta estar en constante aprendizaje y estar haciendo tutoriales de programación de algo que me guste 😁.
 
 <br>
 
