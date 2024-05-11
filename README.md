@@ -1,4 +1,3 @@
-
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bienvenidos!!👨‍💻&width=1500&height=200)](https://github.com/jbahamonc)
 
 <h2 align="center">Hola <img alt="Night Coding" src="./resources/Hi.gif" width='30' />, Soy Jefferson Bahamon</h2>
