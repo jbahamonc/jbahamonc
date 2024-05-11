@@ -34,11 +34,8 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=red)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%23&logoColor=7b3399)
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
-![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar&logoColor=blue&link=https%3A%2F%2Fquasar.dev%2F)
-
-
-
-
+![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar&logoColor=blue&link=https%3A%2F%2Fquasar.dev%2F)\
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-05122A?style=flat&logo=azure&logoColor=blue)
 
 
 
@@ -58,6 +55,11 @@ Desarrollador web con mas de 5 años de experiencia en el mundo de la programaci
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
+
+### 📖 Tecnoloígas que estoy aprendiendo
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
+![Python](https://img.shields.io/badge/-Proximamente...-05122A?style=flat&logo=python&label=Python&labelColor=05122A)
 
 ### ⚙️ &nbsp;Analítica de GitHub
 
